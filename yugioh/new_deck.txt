@@ -1,0 +1,8 @@
+Jaden Yuki's Deck|7|4|2|1
+Winged Kuriboh|If this card on the field is destroyed and sent to the GY: For the rest of this turn, you take no battle damage.|8|300|200
+Elemental HERO Avian|A winged Elemental HERO who wheels through the sky and manipulates the wind.|14|1000|1000
+Elemental HERO Burstinatrix|A flame manipulator who was the first Elemental HERO woman.|24|1200|800
+Elemental HERO Neos|A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian his unknown powers are unleashed.|56|2500|2000
+Polymerization|Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as Fusion Material.|9|spell
+Feather Storm|Activate only if you control a face-up "Elemental Hero Avian". Switch the original ATK and DEF of all face-up monsters your opponent controls, until the End Phase.|33|trap
+Stargazer Magician|If a Pendulum Monster you control battles, your opponent cannot activate Spell Cards until the end of the Damage Step. Unless you have a "Magician" card or "Odd-Eyes" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.|84|1200|2400|1|spell
